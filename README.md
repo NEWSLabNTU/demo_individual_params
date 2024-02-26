@@ -1,4 +1,4 @@
-# autoware_individual_params
+# demo_individual_params
 
 This repository stores parameters that are different from each vehicle.
 
